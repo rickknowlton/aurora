@@ -1,6 +1,6 @@
 ## About
 
-Aurora is a minimal dark theme inspired by the [Northern Lights](https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp).
+Aurora is a minimal dark theme inspired by the [Northern Lights](https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp) available for use in VS Code.
 
 ## Installation via VS Code
 
@@ -12,7 +12,7 @@ Aurora is a minimal dark theme inspired by the [Northern Lights](https://www.asc
 
 ## Manual Installation
 
-Read the [Aurora Theme Quickstart Guide](https://github.com/rickknowlton/aurora-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [Aurora Theme Quickstart Guide](https://github.com/wearetiny/aurora/blob/main/vsc-extension-quickstart.md)
 
 ## Theming Reference
 
