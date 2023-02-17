@@ -4,7 +4,7 @@ Aurora is a minimal dark theme inspired by the [Northern Lights](https://www.asc
 
 ## Installation via Web (Link to Visual Studio Marketplace)
 
-1. Click here to go to the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wearetiny.aurora-dark-theme).
+1. Click [here to go to the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wearetiny.aurora-dark-theme).
 2. Hit the **Install** button.
 3. Voila!
 ## Installation via VS Code
