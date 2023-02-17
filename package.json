@@ -3,7 +3,12 @@
   "displayName": "Aurora",
   "description": "A minimal dark theme inspired by the Northern Lights.",
   "version": "1.0.0",
+  "author": "tiny.",
   "publisher": "wearetiny",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wearetiny/aurora"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
