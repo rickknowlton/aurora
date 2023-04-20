@@ -6,17 +6,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## Releases
 
-- Initial release - 1.0.3 - 2/17/2023
-    - Production release of Aurora Theme to VSCode Marketplace
-    - Overall formatting of styles and theme variables
--  Minor Version - 1.1.3 - 4/19/2023
-    - General bugfixes
-    - Clean up and organization of file structure
--  Minor Version - 1.1.3 - 4/19/2023
-    - 
--  Minor Version - 1.2.0 - 4/19/2023
--  Minor Version - 1.3.0 - 4/19/2023
-
 ### [1.0.3 - Initial Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.0.3/vspackage) - 2/17/2023
 
 #### Publisher Notes
@@ -53,3 +42,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 #### Publisher Notes
 - No material changes to theme
 - Added active CHANGELOG to VS Code Marketplace
+
+### [1.3.2 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.3.1/vspackage) - 4/19/2023
+
+#### Publisher Notes
+- No material changes to theme
+- Formatting issue with CHANGELOG
+
