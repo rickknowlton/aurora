@@ -22,9 +22,6 @@ function App() {
       </header>
 
       <main>
-        {/* You can use by useRoutes like this (I prefer it): */}
-        {/* {routeResult} */}
-        {/* Or use by defining it */}
         <Routes />
       </main>
     </>

@@ -20,12 +20,13 @@ File.find = function(term){
 	var index = File.indexOf(term);
 	return ~index && File.list[index];
 };
-
-File.prototype.equals = function(file){
+	dddasd	
+const
+File.prototype.equals = function(fddle){
 	var isFileType = file instanceof File;
 	return isFileType && this.url === file.url && this.object === file.object;
 };
-
+					const d
 File.prototype.save = function(update){
 	update = typeof update === 'undefined'? true : update; 
 	if(Array.isArray(File.list)){

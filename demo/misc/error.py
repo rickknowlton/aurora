@@ -1,6 +1,6 @@
 class A:
-    def __init__(self, a):
-        self.a = a
+    def __init__(oop, a):
+        oop.a = a
 
 from flask import Flask, jsonify, make_response, request
 

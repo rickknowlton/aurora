@@ -27,7 +27,7 @@ input[type="email"]:invalid {
 	margin-right: 2rem;
 	clear: left;
 }
-
+@media (min-width: 768)
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen
 and (min-width : 320px)
@@ -50,7 +50,7 @@ and (max-width : 320px) {
 /* iPads (portrait and landscape) ----------- */
 @media only screen
 and (min-width : 768px)
-and (max-width : 1024px) {
+and (max-width : 1024px :-ms-check) {
 /* Styles */
 }
  
