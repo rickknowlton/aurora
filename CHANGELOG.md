@@ -1,9 +1,49 @@
-# Change Log
+# Aurora Change Log
 
-All notable changes to the "aurora" extension will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [Unreleased]
+## Releases
 
-- Initial release
+- Initial release - 1.0.3 - 2/17/2023
+    - Production release of Aurora Theme to VSCode Marketplace
+    - Overall formatting of styles and theme variables
+-  Minor Version - 1.1.3 - 4/19/2023
+    - General bugfixes
+    - Clean up and organization of file structure
+-  Minor Version - 1.1.3 - 4/19/2023
+    - 
+-  Minor Version - 1.2.0 - 4/19/2023
+-  Minor Version - 1.3.0 - 4/19/2023
+
+### [1.0.3 - Initial Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.0.3/vspackage) - 2/17/2023
+
+#### Publisher Notes
+- Production release of Aurora Theme to VSCode Marketplace
+- Overall formatting of styles and theme variables
+
+### [1.1.3 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.1.3/vspackage) - 4/19/2023
+
+#### Publisher Notes
+- General bugfixes
+    - Fixed issue with suggestion widget opacity
+    - Fixed contrast issues of sidebar and menu
+- Clean up and organization of file structure
+
+
+### [1.1.4 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.1.4/vspackage) - 4/19/2023
+
+#### Publisher Notes
+- No material changes to theme/versioning error
+
+### [1.2.0 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.2.0/vspackage) - 4/19/2023
+
+#### Publisher Notes
+- No material changes to theme/versioning error
+
+### [1.3.0 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.3.0/vspackage) - 4/19/2023
+
+#### Publisher Notes
+- No material changes to theme
+- Added theme branding to VS Code Marketplace
