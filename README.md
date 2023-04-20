@@ -1,6 +1,14 @@
-## About
+<p align="center">
+  <img alt="Aurora Logo" src="https://raw.githubusercontent.com/wearetiny/aurora/master/images/logo.png" width="200" />
+</p>
+<h1 align="center">
+  Aurora Theme
+</h1>
+<p align="center">
+  A minimal dark theme inspired by the Northern Lights available for <a href="https://marketplace.visualstudio.com/items?itemName=wearetiny.aurora-dark-theme">VS Code</a>.
+</p>
 
-Aurora is a minimal dark theme inspired by the [Northern Lights](https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/what-are-northern-lights.asp) available for use in VS Code.
+![demo](https://raw.githubusercontent.com/wearetiny/aurora/master/images/demo.png)
 
 ## Installation via Web (Link to Visual Studio Marketplace)
 
