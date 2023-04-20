@@ -3,8 +3,12 @@
   "displayName": "Aurora - by tiny.",
   "description": "A minimal dark theme inspired by the Northern Lights.",
   "version": "1.2.0",
-  "author": "tiny.",
   "publisher": "wearetiny",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "tiny.",
+    "email": "howdy@wearetiny.io"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wearetiny/aurora"
@@ -17,6 +21,10 @@
     "aurora theme",
     "aurora dark"
   ],
+  "galleryBanner": {
+    "color": "#062726",
+    "theme": "dark"
+  },  
   "engines": {
     "vscode": "^1.75.0"
   },
