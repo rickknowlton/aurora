@@ -43,7 +43,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - No material changes to theme
 - Added active CHANGELOG to VS Code Marketplace
 
-### [1.3.2 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.3.1/vspackage) - 4/19/2023
+### [1.3.2 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.3.2/vspackage) - 4/19/2023
 
 #### Publisher Notes
 - No material changes to theme
