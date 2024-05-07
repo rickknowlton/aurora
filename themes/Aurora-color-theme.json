@@ -231,6 +231,7 @@
     "tab.unfocusedInactiveForeground": "#ACDBC47f",
 
     // Terminal Variables
+    "terminal.foreground": "#8affea",
     "terminal.ansiBlack": "#062726",
     "terminal.ansiBlue": "#56fcff",
     "terminal.ansiBrightBlack": "#102B6A",
@@ -352,7 +353,6 @@
         "keyword.operator.assignment.js",
         "punctuation.separator.comma.js",
         "punctuation.definition.string.begin.js",
-        "punctuation.definition.string.end.js",
         "punctuation.definition.binding-pattern.object.js"
       ],
       "settings": {
@@ -360,9 +360,26 @@
       }
     },
     {
-      "scope": ["punctuation.definition", "string.quoted.single.scss"],
+      "scope": ["string.quoted.single.js", "string.quoted.single.scss"],
       "settings": {
-        "foreground": "#30F3AC"
+        "foreground": "#35ffdd"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.string.begin.js",
+        "punctuation.definition.string.end.js"
+      ],
+      "settings": {
+        "foreground": "#53ff35"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.constant.js",
+      ],
+      "settings": {
+        "foreground": "#35ffd3"
       }
     },
     {
@@ -387,7 +404,7 @@
     {
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#31ffe7"
       }
     },
     {
@@ -424,7 +441,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#10A765",
+        "foreground": "#f35cfb",
         "fontStyle": ""
       }
     },
@@ -432,7 +449,6 @@
       "scope": [
         "string",
         "string.quoted.double.html",
-        "variable.other.constant.js",
         "variable.other.object.property.js",
         "string.quoted.double.json",
         "markup.fenced_code.block.markdown",
@@ -579,7 +595,6 @@
         "keyword.control.conditional.js",
         "support.constant",
         "entity.other.attribute-name.html",
-        "string.quoted.single.js",
         "storage.type.function.js",
         "meta.object-literal.key"
       ],

@@ -8,6 +8,6 @@ interface Person {
   }
   
   let user = {
-      firstName: "Malcolm",
+    firstName: "Malcolm",
     lastName:  "Reynolds"
   };
