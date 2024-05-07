@@ -54,4 +54,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 #### Publisher Notes
 - Fixed contrast for uncommited/untracked git files
 
+### [1.3.4 - Minor Release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wearetiny/vsextensions/aurora-dark-theme/1.3.4/vspackage) - 4/27/2023
+
+#### Publisher Notes
+- Fixed contrast for status bar when no folder/directory is specified
+
 
